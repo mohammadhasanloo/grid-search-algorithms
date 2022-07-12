@@ -1,0 +1,2 @@
+# AI-CA1-Search-Algorithms-in-Games
+This is a game which a character named `Gandalf` should go to destination(`Gondor`) from the start state. In the way, it may see some characters named `Orak` with military rank n that they monitor cells with a manhattan distance of n. Before Gandalf reachs Gondor, it should find assistants and put them in their destinations and also they should take care the oraks restrictions.
