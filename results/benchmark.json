@@ -1,0 +1,162 @@
+[
+  {
+    "scenario": "test_00",
+    "algorithm": "bfs",
+    "cost": 48,
+    "expanded": 163,
+    "milliseconds": 0.54,
+    "complete": true
+  },
+  {
+    "scenario": "test_00",
+    "algorithm": "ids",
+    "cost": 48,
+    "expanded": 7042,
+    "milliseconds": 28.67,
+    "complete": true
+  },
+  {
+    "scenario": "test_00",
+    "algorithm": "a*",
+    "cost": 48,
+    "expanded": 52,
+    "milliseconds": 0.42,
+    "complete": true
+  },
+  {
+    "scenario": "test_00",
+    "algorithm": "weighted a* (w=2)",
+    "cost": 48,
+    "expanded": 48,
+    "milliseconds": 0.4,
+    "complete": true
+  },
+  {
+    "scenario": "test_00",
+    "algorithm": "weighted a* (w=10)",
+    "cost": 48,
+    "expanded": 48,
+    "milliseconds": 0.4,
+    "complete": true
+  },
+  {
+    "scenario": "test_01",
+    "algorithm": "bfs",
+    "cost": 52,
+    "expanded": 275,
+    "milliseconds": 0.87,
+    "complete": true
+  },
+  {
+    "scenario": "test_01",
+    "algorithm": "ids",
+    "cost": 52,
+    "expanded": 1487,
+    "milliseconds": 5.69,
+    "complete": true
+  },
+  {
+    "scenario": "test_01",
+    "algorithm": "a*",
+    "cost": 52,
+    "expanded": 127,
+    "milliseconds": 0.64,
+    "complete": true
+  },
+  {
+    "scenario": "test_01",
+    "algorithm": "weighted a* (w=2)",
+    "cost": 52,
+    "expanded": 72,
+    "milliseconds": 0.42,
+    "complete": true
+  },
+  {
+    "scenario": "test_01",
+    "algorithm": "weighted a* (w=10)",
+    "cost": 58,
+    "expanded": 72,
+    "milliseconds": 0.42,
+    "complete": true
+  },
+  {
+    "scenario": "test_02",
+    "algorithm": "bfs",
+    "cost": 34,
+    "expanded": 113,
+    "milliseconds": 0.36,
+    "complete": true
+  },
+  {
+    "scenario": "test_02",
+    "algorithm": "ids",
+    "cost": 34,
+    "expanded": 797,
+    "milliseconds": 2.98,
+    "complete": true
+  },
+  {
+    "scenario": "test_02",
+    "algorithm": "a*",
+    "cost": 34,
+    "expanded": 82,
+    "milliseconds": 0.4,
+    "complete": true
+  },
+  {
+    "scenario": "test_02",
+    "algorithm": "weighted a* (w=2)",
+    "cost": 34,
+    "expanded": 52,
+    "milliseconds": 0.28,
+    "complete": true
+  },
+  {
+    "scenario": "test_02",
+    "algorithm": "weighted a* (w=10)",
+    "cost": 36,
+    "expanded": 50,
+    "milliseconds": 0.27,
+    "complete": true
+  },
+  {
+    "scenario": "test_03",
+    "algorithm": "bfs",
+    "cost": 66,
+    "expanded": 352,
+    "milliseconds": 1.12,
+    "complete": true
+  },
+  {
+    "scenario": "test_03",
+    "algorithm": "ids",
+    "cost": 66,
+    "expanded": 3832,
+    "milliseconds": 14.7,
+    "complete": true
+  },
+  {
+    "scenario": "test_03",
+    "algorithm": "a*",
+    "cost": 66,
+    "expanded": 204,
+    "milliseconds": 0.99,
+    "complete": true
+  },
+  {
+    "scenario": "test_03",
+    "algorithm": "weighted a* (w=2)",
+    "cost": 66,
+    "expanded": 77,
+    "milliseconds": 0.48,
+    "complete": true
+  },
+  {
+    "scenario": "test_03",
+    "algorithm": "weighted a* (w=10)",
+    "cost": 68,
+    "expanded": 76,
+    "milliseconds": 0.47,
+    "complete": true
+  }
+]
